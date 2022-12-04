@@ -1,0 +1,17 @@
+.logo{
+    width:100px;
+    height: 60px;
+    padding:5%;
+}
+.go{
+    border-radius: 50px;
+    background-color: bisque;
+    width:50px;
+}
+.tra{
+    height:150vh;
+    width:100vw;
+}
+.bar{
+    width:40vw;
+}
